@@ -73,7 +73,7 @@ highlight Folded term=none ctermfg=247 ctermbg=235 guifg=#9e9e9e guibg=#262626
 highlight FoldColumn term=none ctermfg=247 ctermbg=235 guifg=#9e9e9e guibg=#262626
 highlight SignColumn term=none ctermfg=247 ctermbg=235 guifg=#9e9e9e guibg=#262626
 highlight SpecialKey term=underline ctermfg=237 gui=none guifg=darkgray
-highlight NonText term=none ctermfg=black gui=none guifg=black
+highlight NonText term=none ctermfg=235 gui=none guifg=#9e9e9e guibg=#262626
 highlight StatusLine term=none gui=none guifg=#1c1c1c guibg=#eeeeee gui=none ctermfg=234 ctermbg=255 cterm=none
 highlight StatusLineNC term=none gui=none guifg=#262626 guibg=#585858 gui=none ctermfg=235 ctermbg=240 cterm=none
 if version >= 700
